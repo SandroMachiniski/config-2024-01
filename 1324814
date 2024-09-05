@@ -1,0 +1,8 @@
+https://github.com/SandroMachiniski/contador.git
+
+Observação push por algum motivo não funcionou
+
+Sandro@LAPTOP-EVBU26QK MINGW64 ~/git/aula-08/contador (main)
+$ git push
+remote: Permission to SandroMachiniski/contador.git denied to Sandroccdc.
+fatal: unable to access 'https://github.com/SandroMachiniski/contador.git/': The requested URL returned error: 403
